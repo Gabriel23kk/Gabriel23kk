@@ -1,5 +1,5 @@
 ### Hi there 👋
-  Eu sou Pedro Gabriel um jovem de 20 anos , sou um programador Front End, atualmente criando projetos com:
+  Eu sou Pedro Gabriel um jovem de 21 anos , sou um programador Front End, atualmente criando projetos com:
 <br>
 <br>
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
