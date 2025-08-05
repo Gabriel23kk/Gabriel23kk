@@ -8,7 +8,7 @@
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=Javascript-logo>
 
-<p🚀 Atualmente, estou expandindo meus conhecimentos para o **Back-End**, com o objetivo de me tornar um **desenvolvedor Full Stack completo** <br>
+<p>🚀 Atualmente, estou expandindo meus conhecimentos para o **Back-End**, com o objetivo de me tornar um **desenvolvedor Full Stack completo** <br>
 
 🔧 Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir na área de desenvolvimento!<br>
 
