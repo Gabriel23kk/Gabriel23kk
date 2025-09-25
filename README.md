@@ -4,10 +4,9 @@
   <p><strong>Front-end Developer</strong> — React • UI/UX • Performance • Acessibilidade</p>
 
   <!-- Quick badges -->
-  <a href="mailto:seuemail@exemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-22c55e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/<seu-linkedin>/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:htmlgabriel.2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-22c55e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/<https://www.linkedin.com/in/pedro-gabriel77/>/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://<seu-portfolio>.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://raw.githubusercontent.com/Gabriel23kk/Gabriel23kk/main/CV%20-%20Pedro%20Gabriel.pdf" download><img alt="CV" src="https://img.shields.io/badge/CV-Download-22c55e?style=for-the-badge&logo=readme&logoColor=white"/></a>
 </div>
 
 ---
